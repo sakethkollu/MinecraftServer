@@ -1,0 +1,30 @@
+lastAccountName: ThatGOATBoi
+timestamps:
+  login: 1544914642365
+  lastteleport: 1544857185219
+  logout: 1544914652673
+ipAddress: 192.168.1.254
+nickname: §a§kxxx§r§bBlorox§r§dCleach§r§a§kxxx§r
+lastlocation:
+  world: world
+  x: 16.5
+  y: 64.0
+  z: 248.5
+  yaw: 0.0
+  pitch: 0.0
+afk: false
+logoutlocation:
+  world: world
+  x: 26.653092038780102
+  y: 79.0
+  z: -1905.3407548711223
+  yaw: 15.148163
+  pitch: 17.849924
+homes:
+  home:
+    world: world
+    x: 14.173373388496367
+    y: 75.43210226097322
+    z: -1890.6626121874667
+    yaw: -345.94107
+    pitch: 34.837418

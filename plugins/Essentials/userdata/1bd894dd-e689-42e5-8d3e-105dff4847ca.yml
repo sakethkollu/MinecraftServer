@@ -1,0 +1,30 @@
+lastAccountName: azvio
+timestamps:
+  login: 1544851821023
+  logout: 1544865815969
+  lastteleport: 1544863692518
+ipAddress: 75.58.9.155
+logoutlocation:
+  world: world
+  x: 19.469223895702402
+  y: 85.9967531640235
+  z: -1906.9138253713286
+  yaw: 13.738037
+  pitch: 0.48820707
+nickname: yolanda
+lastlocation:
+  world: world
+  x: -170.49209112529516
+  y: 83.12649399206812
+  z: -1937.4509754505696
+  yaw: 119.175476
+  pitch: 2.546472
+homes:
+  home:
+    world: world
+    x: 13.54206816839901
+    y: 79.66325705534672
+    z: -1911.716712608793
+    yaw: 337.12793
+    pitch: -9.247244
+afk: false

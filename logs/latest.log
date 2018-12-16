@@ -1,0 +1,50 @@
+[14:56:04] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[14:56:04] [Server thread/INFO]: Loading properties
+[14:56:04] [Server thread/INFO]: Default game type: SURVIVAL
+[14:56:04] [Server thread/INFO]: Generating keypair
+[14:56:04] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:56:04] [Server thread/INFO]: Using default channel type
+[14:56:05] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-e60fc34 (MC: 1.12.2) (Implementing API version 1.12.2-R0.1-SNAPSHOT)
+[14:56:05] [Server thread/INFO]: [dynmap] Loading dynmap v3.0-beta-3-160
+[14:56:05] [Server thread/INFO]: [dynmap] version=git-Bukkit-e60fc34 (MC: 1.12.2)
+[14:56:05] [Server thread/INFO]: [dynmap] Mod Support API available
+[14:56:05] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.9;caf0ad9
+[14:56:05] [Server thread/INFO]: [Essentials] Loading Essentials v2.0.1-b488
+[14:56:05] [Server thread/INFO]: Preparing level "world"
+[14:56:06] [Server thread/INFO]: Preparing start region for level 0 (Seed: 8031635984053676505)
+[14:56:07] [Server thread/INFO]: Preparing spawn area: 64%
+[14:56:07] [Server thread/INFO]: Preparing start region for level 1 (Seed: 8031635984053676505)
+[14:56:08] [Server thread/INFO]: Preparing start region for level 2 (Seed: 8031635984053676505)
+[14:56:08] [Server thread/INFO]: [dynmap] Enabling dynmap v3.0-beta-3-160
+[14:56:08] [Server thread/INFO]: [dynmap] Using Bukkit Permissions (superperms) for access control
+[14:56:08] [Server thread/INFO]: [dynmap] Web interface permissions only available for online users
+[14:56:08] [Server thread/INFO]: [dynmap] Mod Support processing completed
+[14:56:09] [Server thread/INFO]: [dynmap] Loaded 25 shaders.
+[14:56:09] [Server thread/INFO]: [dynmap] Loaded 82 perspectives.
+[14:56:09] [Server thread/INFO]: [dynmap] Loaded 14 lightings.
+[14:56:09] [Server thread/INFO]: [dynmap] Web server started on address 0.0.0.0:8123
+[14:56:09] [Server thread/INFO]: [dynmap] version 3.0-beta-3-160 is enabled - core version 3.0-beta-3-160
+[14:56:09] [Server thread/INFO]: [dynmap] For support, visit https://forums.dynmap.us
+[14:56:09] [Server thread/INFO]: [dynmap] To report or track bugs, visit https://github.com/webbukkit/dynmap/issues
+[14:56:09] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world'.
+[14:56:09] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_nether'.
+[14:56:09] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_the_end'.
+[14:56:09] [Server thread/INFO]: [dynmap] Enabled
+[14:56:09] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.9;caf0ad9
+[14:56:09] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[14:56:09] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_12_R2 as the Bukkit adapter
+[14:56:09] [Server thread/INFO]: [Essentials] Enabling Essentials v2.0.1-b488
+[14:56:09] [Server thread/INFO]: [Essentials] Using 1.8.3+ BlockStateMeta provider as mob spawner provider.
+[14:56:10] [Server thread/INFO]: [Essentials] Using Reflection based provider as spawn egg provider.
+[14:56:10] [Server thread/INFO]: [Essentials] Using 1.9+ BasePotionData provider as potion meta provider.
+[14:56:10] [Server thread/INFO]: Using locale en_US
+[14:56:10] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[14:56:10] [Server thread/INFO]: [Essentials] Using config file enhanced permissions.
+[14:56:10] [Server thread/INFO]: [Essentials] Permissions listed in as player-commands will be given to all users.
+[14:56:10] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:56:10] [Server thread/INFO]: Done (4.609s)! For help, type "help" or "?"
+[14:57:21] [User Authenticator #1/INFO]: UUID of player ThatGOATBoi is 55e5c7ea-0858-4b71-ab66-f498214a54ed
+[14:57:22] [Server thread/INFO]: ThatGOATBoi[/192.168.1.254:55931] logged in with entity id 118 at ([world]23.481496342412548, 76.0, -1903.1392755748132)
+[14:57:32] [Server thread/INFO]: ThatGOATBoi lost connection: Internal Exception: java.io.IOException: An existing connection was forcibly closed by the remote host
+[14:57:32] [Server thread/INFO]: ThatGOATBoi left the game
+[14:58:10] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
